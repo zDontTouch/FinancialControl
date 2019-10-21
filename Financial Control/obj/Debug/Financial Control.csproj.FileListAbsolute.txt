@@ -8,3 +8,14 @@ G:\Program Files (x86)\Microsoft Visual Studio\Projects\Financial Control\Financ
 G:\Program Files (x86)\Microsoft Visual Studio\Projects\Financial Control\Financial Control\obj\Debug\Financial Control.csproj.CoreCompileInputs.cache
 G:\Program Files (x86)\Microsoft Visual Studio\Projects\Financial Control\Financial Control\obj\Debug\Financial Control.exe
 G:\Program Files (x86)\Microsoft Visual Studio\Projects\Financial Control\Financial Control\obj\Debug\Financial Control.pdb
+G:\Program Files (x86)\Microsoft Visual Studio\Projects\Financial Control\Financial Control\obj\Debug\Financial_Control.StockControl.resources
+G:\Program Files (x86)\Microsoft Visual Studio\Projects\Financial Control\Financial Control\bin\Debug\EntityFramework.dll
+G:\Program Files (x86)\Microsoft Visual Studio\Projects\Financial Control\Financial Control\bin\Debug\EntityFramework.SqlServer.dll
+G:\Program Files (x86)\Microsoft Visual Studio\Projects\Financial Control\Financial Control\bin\Debug\System.Data.SQLite.dll
+G:\Program Files (x86)\Microsoft Visual Studio\Projects\Financial Control\Financial Control\bin\Debug\System.Data.SQLite.EF6.dll
+G:\Program Files (x86)\Microsoft Visual Studio\Projects\Financial Control\Financial Control\bin\Debug\System.Data.SQLite.Linq.dll
+G:\Program Files (x86)\Microsoft Visual Studio\Projects\Financial Control\Financial Control\bin\Debug\EntityFramework.xml
+G:\Program Files (x86)\Microsoft Visual Studio\Projects\Financial Control\Financial Control\bin\Debug\EntityFramework.SqlServer.xml
+G:\Program Files (x86)\Microsoft Visual Studio\Projects\Financial Control\Financial Control\bin\Debug\System.Data.SQLite.xml
+G:\Program Files (x86)\Microsoft Visual Studio\Projects\Financial Control\Financial Control\bin\Debug\System.Data.SQLite.dll.config
+G:\Program Files (x86)\Microsoft Visual Studio\Projects\Financial Control\Financial Control\obj\Debug\Financial Control.csproj.CopyComplete
